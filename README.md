@@ -4,6 +4,9 @@ This project demonstrates how to integrate the DHTMLX React Gantt component with
 
 The setup uses React 19+ and Vite, with full TypeScript support.
 
+**Related tutorial**:
+[https://docs.dhtmlx.com/gantt/integrations/react/state/tanstack-query/](https://docs.dhtmlx.com/gantt/integrations/react/state/tanstack-query/)
+
 ## Features:
 
 - Powerful Gantt chart UI for project planning and task management.
@@ -89,6 +92,14 @@ or
 ```
 yarn dev
 ```
+
+## Related demos
+
+This starter is the second step in a three-part React Gantt state-management series:
+
+1. [react-gantt-zustand-starter](https://github.com/dhtmlx/react-gantt-zustand-starter) — local in-memory state with Zustand
+2. **react-gantt-tanstack-query-starter** — server-backed state with a JSON file backend (this repo)
+3. [react-gantt-tanstack-supabase-starter](https://github.com/dhtmlx/react-gantt-tanstack-supabase-starter) — real-time multi-user sync over PostgreSQL
 
 ## License
 

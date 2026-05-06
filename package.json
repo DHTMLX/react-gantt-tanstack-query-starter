@@ -1,8 +1,27 @@
 {
-  "name": "dhx-react-gantt-tanstack-query-demo",
+  "name": "dhx-react-gantt-tanstack-query-starter",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "description": "Starter showing how to integrate DHTMLX React Gantt with TanStack Query and a local Express + JSON backend, including snapshot-based undo/redo.",
+  "keywords": [
+    "dhtmlx",
+    "gantt",
+    "react",
+    "tanstack-query",
+    "zustand",
+    "express",
+    "state-management",
+    "starter",
+    "demo"
+  ],
+  "license": "MIT",
+  "author": "DHTMLX",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhtmlx/react-gantt-tanstack-query-starter.git"
+  },
+  "homepage": "https://docs.dhtmlx.com/gantt/integrations/react/state/tanstack-query/",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
